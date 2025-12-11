@@ -1,6 +1,6 @@
 public class arraysmall {
     public static void main(String[] args) {
-        int array[]={11,5,6,2,5};
+        int array[]={12,9,5,8,2,5};
         int small=array[0];
         for (int i=1;i<array.length;i++)
         {
